@@ -21,7 +21,8 @@ export default {
         'bounce-slow': 'bounce-slow 2s ease-in-out infinite',
       },
       fontFamily: {
-        'sans': ['Noto Sans JP', 'Yu Gothic', 'Hiragino Kaku Gothic ProN', 'sans-serif'],
+        'karla': ['Karla', 'sans-serif'],
+        'sans': ['Noto Sans JP', 'Karla', 'Yu Gothic', 'Hiragino Kaku Gothic ProN', 'sans-serif'],
         'serif': ['Noto Serif JP', 'Yu Mincho', 'YuMincho', 'Hiragino Mincho ProN', 'serif'],
       },
       letterSpacing: {

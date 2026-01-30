@@ -13,13 +13,13 @@ export const Fv = () => {
 
         <div className="absolute bottom-[25%] right-[3%] md:right-auto max-w-[94%] md:max-w-none">
           <div className="bg-white/95 backdrop-blur-sm inline-block shadow-md">
-            <p className="font-serif mx-5 my-2 text-3xl">あなたの日常に</p>
+            <p className="font-serif mx-5 my-2 text-4xl">あなたの日常に</p>
           </div>
         </div>
 
         <div className="absolute bottom-[15%] right-[3%] md:right-auto max-w-[94%] md:max-w-none">
           <div className="bg-white/95 backdrop-blur-sm inline-block shadow-md">
-            <p className="font-serif mx-5 my-2 text-3xl">緑のやすらぎと、癒しのカップを</p>
+            <p className="font-serif mx-5 my-2 text-4xl">緑のやすらぎと、癒しのカップを</p>
           </div>
         </div>
       </div>
